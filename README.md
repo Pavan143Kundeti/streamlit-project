@@ -54,6 +54,3 @@ Include visuals here to showcase the user interface, dynamic analytics, and reco
 ## License
 This project is licensed under [MIT License](https://opensource.org/licenses/MIT) - feel free to use and adapt!
 
----
-
-Let me know if you'd like additional sections or adjustments. This README is comprehensive and professional, making it perfect for your GitHub repository!
